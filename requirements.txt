@@ -8,3 +8,4 @@ yfinance
 pandas
 requests
 lxml
+spotipy
