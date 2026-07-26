@@ -1,0 +1,10 @@
+google-genai
+google-cloud-storage
+gTTS
+feedgen
+feedparser
+beautifulsoup4
+yfinance
+pandas
+requests
+lxml
