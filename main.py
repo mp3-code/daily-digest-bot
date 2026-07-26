@@ -2,11 +2,6 @@ from google.colab import drive
 
 drive.mount('/content/drive')
 
-!pip install google-genai requests feedparser beautifulsoup4 yfinance pandas lxml gtts google-cloud-storage feedgen
-
-# Install the Spotify API library if you haven't already
-!pip install spotipy -q
-
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import requests
