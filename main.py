@@ -1,7 +1,3 @@
-from google.colab import drive
-
-drive.mount('/content/drive')
-
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import requests
