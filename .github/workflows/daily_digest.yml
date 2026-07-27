@@ -2,8 +2,8 @@ name: Run Daily Digest Podcast Generator
 
 on:
   schedule:
-    # Runs at 11:30 UTC every day (5:30 AM MDT)
-    - cron: '30 11 * * *'
+    # Runs at 11:23 UTC every day (5:23 AM MDT)
+    - cron: '23 11 * * *'
   workflow_dispatch: # Enables a manual "Run now" button for testing
 
 jobs:
